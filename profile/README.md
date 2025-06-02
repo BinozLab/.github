@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/BinozLab.png" width="120" alt="BinozLab Logo" />
+  <img src="https://github.com/Unboz.png" width="120" alt="BinozLab Logo" />
 </p>
 
-<h1 align="center">Welcome to BinozLab 👋</h1>
+<h1 align="center">Welcome to Unboz 👋</h1>
 
 <p align="center">🚀 IT Services | 💻 Software Engineering | 🧠 AI Engineering</p>
 
