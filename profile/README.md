@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Unboz.png" width="120" alt="BinozLab Logo" />
+  <img src="https://github.com/Unboz.png" width="120" alt="Unboz Logo" />
 </p>
 
 <h1 align="center">Welcome to Unboz 👋</h1>
@@ -7,11 +7,11 @@
 <p align="center">🚀 IT Services | 💻 Software Engineering | 🧠 AI Engineering</p>
 
 <p align="center">
-  <a href="https://github.com/BinozLab?tab=repositories">
+  <a href="https://github.com/Unboz?tab=repositories">
     <img alt="Repos" src="https://img.shields.io/badge/Public%20Repos-Click%20Here-blue?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://binozlab.com">
-    <img alt="Website" src="https://img.shields.io/badge/Website-BinozLab.com-brightgreen?style=for-the-badge&logo=google-chrome" />
+  <a href="https://unboz.dev">
+    <img alt="Website" src="https://img.shields.io/badge/Website-Unboz.dev-brightgreen?style=for-the-badge&logo=google-chrome" />
   </a>
 </p>
 
@@ -19,7 +19,7 @@
 
 ## 🧠 About Us
 
-At **BinozLab**, we're on a mission to blend code, creativity, and intelligence.  
+At **Unboz**, we're on a mission to blend code, creativity, and intelligence.  
 We specialize in **IT services**, **custom software engineering**, and cutting-edge **AI engineering**.  
 Whether you're launching a startup or scaling your systems—we code the future, so you can focus on yours.
 
@@ -35,8 +35,8 @@ Here's a taste of what we love working with:
 
 ## 🌐 Socials
 
-- 🌍 [Website](https://binozlab.com)
-- 🧑‍💼 [GitHub](https://github.com/BinozLab)
+- 🌍 [Website](https://unboz.dev)
+- 🧑‍💼 [GitHub](https://github.com/Unboz)
 - 📬 *More links coming soon...*
 
 ---
@@ -44,8 +44,8 @@ Here's a taste of what we love working with:
 ## 📫 Contact
 
 Have a project in mind or just want to say hi?  
-Drop us a line at 👉 [contact@binozlab.com](mailto:contact@binozlab.com)
+Drop us a line at 👉 [contact@unboz.dev](mailto:contact@unboz.dev)
 
 ---
 
-<p align="center">Made with 💡 by the BinozLab Team</p>
+<p align="center">Made with 💡 by the Unboz Team</p>
